@@ -6,7 +6,7 @@ from gpiozero import Button
 def send_email(subject, body, to_email):
     # Your email credentials
     email_address = 'sohampy0@gmail.com'
-    email_password = 'macazhlhbkcipwxx'
+    email_password = 'ramacazhlhbkcipwxx'
 
     # Create the email message
     msg = EmailMessage()
