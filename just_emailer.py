@@ -21,5 +21,5 @@ def send_email(subject, body, to_email):
 
 
 send_email('testing not from raspberry', 'some one is here, SOS',
-           'soham.parjasp@gmail.com,ustat.parjasp@gmail.com')
+           'email@gmail.com')
 print('email sent')

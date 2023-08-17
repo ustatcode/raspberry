@@ -25,5 +25,5 @@ button = Button(2)
 button.wait_for_press()
 print('button pressed')
 send_email('testing from raspberry with 2', 'some one is here, SOS',
-           'soham.parjasp@gmail.com,ustat.parjasp@gmail.com')
+           'email1@gmail.com,email2@gmail.com')
 print('email sent')
