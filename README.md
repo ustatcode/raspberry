@@ -1,2 +1,2 @@
 # raspberry
-Ustat Raspberry pi and stuff
+Raspberry pi and stuff
